@@ -1,3 +1,5 @@
+> **Note:** The minimum IAM Policy required to deploy this project is mentioned in [this JSON file](/min-permission-required-aws-iam-role.json). To use these permission, you need need to select a project wide 6 letter Project Name and then accross the project replace the keyword `{{project_name}}` with that name. See `Setup Instructions` for further information.
+
 # AWS Terraform Gatsby (SSG) Project Starter
 
 Welcome to the AWS Terraform Gatsby (SSG) Project Starter, a codebase that provides you with the terraform code needed to initiate your project on the AWS Cloud. This codebase includes a Terraform remote backend along with the primary Terraform code. 
